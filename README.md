@@ -31,9 +31,9 @@ Este é um sistema de agendamento de consultas médicas que utiliza o backend em
 git clone https://github.com/rraffaa/Consultas.git
 
 - 2. Instale as dependências do backend:
-cd .\backend\
-npm install
-node index.js # Para iniciar o servidor.
+- cd .\backend\
+- npm install
+- node index.js # Para iniciar o servidor.
 
 - 3. Inicie o frontend para interagir com a interface do usuário.
 
