@@ -9,17 +9,18 @@ Este é um sistema de agendamento de consultas médicas que utiliza o backend em
 - Excluir agendamento de consulta por CPF.
 
 ### Estrutura do Projeto
-├── backend/             # Código do servidor Node.js com o framework Express
-│   ├── controllers/     # Controladores das rotas
-│   ├── dao/             # Acesso ao banco de dados
-│   ├── models/          # Modelos de dados
-│   ├── routes/          # Rotas da API
-│   |── index.js         # Ponto de entrada do servidor
-|   └── ...
-├── frontend/            # Código do frontend com o framework Express
-    ├── public/          # Arquivos estáticos
-    ├── src/             # Código-fonte do frontend
-    └── ...
+- backend/             # Código do servidor Node.js com o framework Express
+  - controllers/       # Controladores das rotas
+  - dao/               # Acesso ao banco de dados
+  - models/            # Modelos de dados
+  - routes/            # Rotas da API
+  - index.js           # Ponto de entrada do servidor
+  - ...
+
+- frontend/            # Código do frontend com o framework Express
+  - public/            # Arquivos estáticos
+  - src/               # Código-fonte do frontend
+  - ...
 
 ### Pré-requisitos
 - Node.js e npm instalados.
