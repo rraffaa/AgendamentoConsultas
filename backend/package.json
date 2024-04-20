@@ -1,0 +1,25 @@
+{
+  "name": "consultas-backend",
+  "version": "1.0.0",
+  "description": "Esta é uma aplicação para marcação de consultas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rraffaa/Consultas.git"
+  },
+  "author": "Rafaella Lassance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rraffaa/Consultas/issues"
+  },
+  "homepage": "https://github.com/rraffaa/Consultas#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5",
+    "sequelize": "^6.37.3"
+  }
+}

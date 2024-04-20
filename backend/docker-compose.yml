@@ -1,0 +1,26 @@
+version: '3'
+services:
+  backend:
+    build: .
+    ports:
+      - "3001:3001"
+    depends_on:
+      - db
+    environment:
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_USER=postgres
+      - DB_PASSWORD=24681012
+      - DB_NAME=postgres
+
+  db:
+    image: postgres:latest
+    environment:
+      - POSTGRES_USER=your_db_user
+      - POSTGRES_PASSWORD=your_db_password
+      - POSTGRES_DB=your_db_name
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
