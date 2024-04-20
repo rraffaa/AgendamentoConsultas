@@ -1,0 +1,25 @@
+{
+  "name": "consultas-frontend",
+  "version": "1.0.0",
+  "description": "Aplicação para marcação de consultas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rraffaa/Consultas.git"
+  },
+  "author": "Rafaella Lassance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rraffaa/Consultas/issues"
+  },
+  "homepage": "https://github.com/rraffaa/Consultas#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "react-router-dom": "^6.22.3"
+  }
+}
