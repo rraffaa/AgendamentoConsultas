@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rraffaa/Consultas.git"
+    "url": "https://github.com/rraffaa/AgendamentoConsultas.git"
   },
   "author": "Rafaella Lassance",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rraffaa/Consultas/issues"
+    "url": "https://github.com/rraffaa/AgendamentoConsultas.git"
   },
   "homepage": "https://github.com/rraffaa/Consultas#readme",
   "dependencies": {
