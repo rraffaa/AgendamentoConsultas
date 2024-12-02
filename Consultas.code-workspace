@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "bloco_de_notas_extensao",
+			"path": "../Bloco_deNotas_Extensao/bloco_de_notas_extensao"
+		}
+	],
+	"settings": {}
+}
