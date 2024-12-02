@@ -40,3 +40,7 @@ git clone https://github.com/rraffaa/Consultas.git
 ### Como testar
 
 Abra um navegador e acesse: http://localhost:3000.
+
+### Licença
+
+Este projeto é licenciado sob a Apache License 2.0. Veja o arquivo LICENSE para mais detalhes.
