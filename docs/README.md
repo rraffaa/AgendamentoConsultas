@@ -28,7 +28,7 @@ Este é um sistema de agendamento de consultas médicas que utiliza o backend em
 
 ### Instalação
 - 1. Clone o repositório:
-git clone https://github.com/rraffaa/Consultas.git
+git clone https://github.com/rraffaa/agendamento-consultas.git
 
 - 2. Instale as dependências do backend:
 - cd .\backend\
